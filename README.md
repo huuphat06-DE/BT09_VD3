@@ -1,8 +1,8 @@
-# HƯỚNG DẪN SPRING BOOT + SECURITY (VD3)
+
 
 Dự án bài tập ứng dụng Web quản lý User và Product sử dụng Spring Boot 4.1.1 kết hợp với Spring Security 7.x, cung cấp các tính năng xác thực và quản lý tài nguyên.
 
-## 🚀 Công nghệ sử dụng
+## Công nghệ sử dụng
 - **Backend:** Spring Boot 4.1.1
 - **Security:** Spring Security 7.1.x
 - **Java:** JDK 26 (hoặc JDK 21/17 tùy môi trường)
@@ -15,7 +15,7 @@ Dự án bài tập ứng dụng Web quản lý User và Product sử dụng Spr
 - **Validation:** Jakarta Validation
 - **Build Tool:** Maven
 
-## 🎯 Chức năng chính
+##  Chức năng chính
 ### Authentication
 - Đăng ký tài khoản (Register)
 - Gửi OTP qua email để xác thực tài khoản
@@ -42,7 +42,7 @@ Dự án bài tập ứng dụng Web quản lý User và Product sử dụng Spr
 - Liên kết Product thuộc về User nào tạo ra nó
 - Thống kê tổng số Product
 
-## ⚙️ Hướng dẫn cài đặt và chạy dự án
+##  Hướng dẫn cài đặt và chạy dự án
 
 ### 1. Chuẩn bị cơ sở dữ liệu
 - Khởi động SQL Server.
